@@ -1,0 +1,140 @@
+.navbar-nav > li > a{
+    size: 5;
+    font-size: medium;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+ul.navbar-nav > li.nav-item.dropdown > ul > li > a{
+    letter-spacing: 0.15rem;
+    font-size: medium;
+}
+
+.list-unstyled li{
+    padding: 1.5rem;
+    border-bottom: 1px solid #343a40;
+}
+
+.list-unstyled li a{
+    color: black;
+    text-decoration: none;
+}
+
+.list-unstyled li a:hover{
+    color: #323232;
+}
+
+.btn-outline-secondary{
+    background-color: black !important;
+    
+    color: white !important;
+    font-size: xx-large !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.btn-outline-secondary:hover{
+    background-color: black !important;
+    color: gold !important;
+    font-size: xx-large !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    text-transform: uppercase !important;
+}
+
+.bg-body-tertiary{
+    background-color: black !important;
+}
+
+.bg-body{ background-color: black;}
+
+.nav-link{
+    color: gold !important;
+    
+}
+
+.nav-link::cue{
+    color: gray !important;
+}
+
+.nav-link:hover{
+    color: white !important;
+    font-size: large;
+}
+
+.dropdown-menu{
+    background-color: gray !important;
+}
+
+.dropdown-item{
+    color: gold !important;
+}
+.dropdown-item:hover{
+    background-color: white !important;
+    color: gold !important;
+}
+
+
+
+
+
+.photo-gallery{
+    display: inline block;
+    color: #313437;
+    background-color: #fff;
+   
+}
+
+.photo-gallery .photos{
+    padding-bottom: 20px;
+   
+}
+
+.photo-gallery .item{
+    padding-bottom: 30px;
+}
+
+
+
+footer{
+    padding: 2rem;
+    background-color: black;
+    margin-top: 2rem;
+}
+
+footer p{
+    color: gold;
+}
+
+footer a{
+    color:yellow;
+    transition: color 0.4s ease-in;
+    padding: 0.2rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+footer p{
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+
+
+.container ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.3rem;
+}
+
+.container ul li a:hover{
+    color: gold;
+    font-size: 1.4rem;
+    transition: color ease-in 0.4s; 
+}
+
+
+
